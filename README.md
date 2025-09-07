@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project enables real-time object tracking using a **Raspberry Pi Zero 2 W** paired with the **Sony IMX500 AI Camera**. Since the Raspberry Pi Zero 2 W lacks the processing power required for on-device AI inference, the IMX500 sensor-capable of edge AI processing-is utilized to handle object detection tasks efficiently.
+This project enables real-time object tracking using a **Raspberry Pi Zero 2 W** paired with the **Raspberry Pi AI Camera**. Since the Raspberry Pi Zero 2 W lacks the processing power required for on-device AI inference, the IMX500 sensor-capable of edge AI processing-is utilized to handle object detection tasks efficiently.
 
 The AI model used is **YOLOv11n**, trained on the **COCO dataset**, enabling the system to identify and track multiple object classes.
 
