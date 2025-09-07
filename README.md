@@ -28,11 +28,11 @@ The AI model used is **YOLOv11n**, trained on the **COCO dataset**, enabling the
 | Component                 | Description                               |
 |---------------------------|-------------------------------------------|
 | Raspberry Pi Zero 2 W     | Main SBC (Single Board Computer)          |
-| Raspberry Pi AI Camera    | With Sony IMX500 sensor for AI inference  |
-| Stepper Motor             | For pan/tilt movement                     |
-| ULN2003 Driver Board      | Stepper motor driver                      |
+| Raspberry Pi AI Camera    | Sony IMX500 sensor for AI inference       |
+| 5V DC Stepper Motor       | For panning motion                        |
+| ULN2003                   | Stepper motor driver                      |
 | 2x LED Lights *(optional)*| For stepper motor movement indicator      |
-| Power Supply              | 5V 1.5A output minimum                    |
+| DC Power Supply           | 5V 1.5A output minimum                    |
 
 ---
 
